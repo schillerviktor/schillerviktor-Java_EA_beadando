@@ -60,3 +60,7 @@ A GIT-en saját nevet válasszanak, ami alapján be lehet azonosítani, hogy ki 
 (Kötelező elem! a működés ez alapján lesz javítva)  
 Az adatbázisfájlt is ide tegye adatok.db néven.
 A kipróbáláshoz csak ezt a JAR fájlt és az adatbázisfájlt töltöm le a GitHub-ról. Működnie kell a XAMPP nélkül is. Az adatbázisfájlt a c:\adatbazis mappába kelljen másolni. Lehet több adatbázisfájlt is használni.
+
+
+
+![Java_EA_promo_](https://github.com/schillerviktor/schillerviktor-Java_EA_beadando/assets/46298416/1acb953a-1e25-40a9-91dd-4edaa64dccc7)

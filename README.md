@@ -1,4 +1,4 @@
-# schillerviktor-Java_EA_beadando
+#Java_EA_beadando
 
 1.	Adatbázis menü: egy CRUD alkalmazás a választott adatbázissal				
 Olvas almenü: Megjeleníti az adatbázis adatait egy táblázatban. Az adatbázis legalább 3 táblájának adatait használja fel. Ha túl sok adatot tartalmaz az adatbázis, akkor elég csak egy részét megjeleníteni.
